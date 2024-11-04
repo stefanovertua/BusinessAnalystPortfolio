@@ -10,6 +10,8 @@ Outside of work, I’m an avid traveler (40+ countries visited). I also have a s
 
 Numbers and data are my tools, and I'm always looking for new ways to apply them creatively and effectively.
 
+My favorite quote is: "Live as if you were to die tomorrow. Learn as if you were to live forever."
+
 ## **Projects**  
 - [Pizza Pioneers: A Comprehensive Performance Analysis](https://github.com/stefanovertua/pizza-pioneers-performance-analysis/tree/main) - A deep dive into sales and operational metrics to drive decision-making in a pizzeria.
 - [Data-Driven Analysis Of A Beverage Retailer](https://github.com/stefanovertua/data-driven-analysis-of-a-beverage-retailer) - A comprehensive business assessment of a Beverage Retailer.
