@@ -7,13 +7,11 @@ Hi there, welcome to my GitHub profile!
 
 I am a motivated professional with a strong foundation in business intelligence and data analysis, currently transitioning into a dedicated role in BI and data-driven decision-making. With over 2 years of experience leading data-centric projects, I have successfully developed BI dashboards and implemented data solutions for 50+ clients, achieving a 15% improvement in operational performance.  <br>
 
-My portfolio includes projects leveraging Excel, SQL, and Power BI to address complex challenges and deliver impactful insights. I am passionate about applying creative and effective solutions to real-world problems, helping businesses unlock the power of their data.
+My portfolio includes projects leveraging Excel, SQL, and Power BI to address complex challenges and deliver impactful insights. I am passionate about applying creative and effective solutions to real-world problems, helping businesses unlock the power of their data. Numbers and data are my tools, and I'm always looking for new ways to apply them creatively and effectively.
 
 I bring essential soft skills critical to success in collaborative environments. I excel in problem-solving, identifying root causes, and proposing actionable solutions. I am skilled at structuring and presenting complex data insights clearly and concisely, ensuring alignment and understanding across teams. I work seamlessly in cross-functional teams, ensuring collaboration between departments, and I’m adept in stakeholder management, consistently driving projects to successful implementation while balancing diverse priorities.  <br>
 
 Outside of work, I’m an avid traveler (40+ countries visited). I also have a strong interest in Geography, Architecture, Urban Planning, Books, Vexillology (flags!), and Politics.<br>
-
-Numbers and data are my tools, and I'm always looking for new ways to apply them creatively and effectively.
 
 My favorite quote is: "Live as if you were to die tomorrow. Learn as if you were to live forever."
 
