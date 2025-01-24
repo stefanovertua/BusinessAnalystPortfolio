@@ -17,7 +17,7 @@ My favorite quote is: "Live as if you were to die tomorrow. Learn as if you were
 
 ## **Projects**  
 - [Pizza Pioneers: A Comprehensive Performance Analysis](https://github.com/stefanovertua/pizza-pioneers-performance-analysis/tree/main) - A deep dive into sales and operational metrics to drive decision-making in a pizzeria.
-- [Hiring trends for data analyst positions.](https://github.com/stefanovertua/job-postings-analysis) - A study on job postings for data analysis positions leveraging Looker Studio.
+- [Hiring trends for data analyst positions.](https://github.com/stefanovertua/job-postings-analysis) - A study on job postings for data analyst positions leveraging Looker Studio.
 - [Data-Driven Analysis Of A Beverage Retailer](https://github.com/stefanovertua/data-driven-analysis-of-a-beverage-retailer) - A comprehensive business assessment of a Beverage Retailer.
 - [Strategic Insights Of A Coffee Chain: Enhancing Profitability And Efficiency](https://github.com/stefanovertua/strategic-insights-of-a-coffee-chain) - An SQL-based analysis of key performance data for a Coffee Chain.
 
