@@ -9,7 +9,7 @@ I am a motivated professional with a strong foundation in business intelligence 
 
 My portfolio includes projects leveraging Excel, SQL, Looker Studio, and Power BI to address complex challenges and deliver impactful insights. I am passionate about applying creative and effective solutions to real-world problems, helping businesses unlock the power of their data. Numbers and data are my tools, and I'm always looking for new ways to apply them creatively and effectively.
 
-I bring essential soft skills critical to success in collaborative environments. I excel in problem-solving, identifying root causes, and proposing actionable solutions. I am skilled at structuring and presenting complex data insights clearly and concisely, ensuring alignment and understanding across teams. I work seamlessly in cross-functional teams, ensuring collaboration between departments, and I’m adept in stakeholder management, consistently driving projects to successful implementation while balancing diverse priorities.  <br>
+I bring essential soft skills critical to success in collaborative environments. I excel in problem-solving, identifying root causes, and proposing actionable solutions. I am skilled at structuring and presenting complex data insights clearly and concisely. I work seamlessly in cross-functional teams, ensuring collaboration between departments, and I’m adept in stakeholder management, consistently driving projects to successful implementation while balancing diverse priorities.  <br>
 
 Outside of work, I’m an avid traveler (40+ countries visited). I also have a strong interest in Geography, Architecture, Urban Planning, Books, Vexillology (flags!), and Politics.<br>
 
