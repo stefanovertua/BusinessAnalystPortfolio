@@ -1,4 +1,4 @@
-# Stefano Vertua | Business Analyst
+# Stefano Vertua | Business Intelligence & Business IT Analyst
 
 
 ## **About Me**  
