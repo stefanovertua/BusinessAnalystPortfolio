@@ -5,7 +5,7 @@
 
 Hi there, welcome to my GitHub profile!
 
-I am a motivated professional with a strong foundation in business intelligence and data analysis, currently transitioning into a dedicated role in BI and data-driven decision-making. With over 2 years of experience leading data-centric projects, I have successfully developed BI dashboards and implemented data solutions for 50+ clients, achieving a 15% improvement in operational performance.  <br>
+I am a motivated professional with a strong foundation in business intelligence and data analysis, currently transitioning into a dedicated role in BI and data-driven decision-making. With over 3 years of experience leading data-centric projects, I have successfully developed BI dashboards and implemented data solutions for 50+ clients, achieving a 15% improvement in operational performance.  <br>
 
 My portfolio includes projects leveraging Excel, SQL, Looker Studio, and Power BI to address complex challenges and deliver impactful insights. I am passionate about applying creative and effective solutions to real-world problems, helping businesses unlock the power of their data. Numbers and data are my tools, and I'm always looking for new ways to apply them creatively and effectively.
 
